@@ -1,0 +1,16 @@
+C:\Users\joao_\documents\dev\etecab\bin\Debug\net5.0\etecab.exe
+C:\Users\joao_\documents\dev\etecab\bin\Debug\net5.0\etecab.deps.json
+C:\Users\joao_\documents\dev\etecab\bin\Debug\net5.0\etecab.runtimeconfig.json
+C:\Users\joao_\documents\dev\etecab\bin\Debug\net5.0\etecab.runtimeconfig.dev.json
+C:\Users\joao_\documents\dev\etecab\bin\Debug\net5.0\etecab.dll
+C:\Users\joao_\documents\dev\etecab\bin\Debug\net5.0\ref\etecab.dll
+C:\Users\joao_\documents\dev\etecab\bin\Debug\net5.0\etecab.pdb
+C:\Users\joao_\documents\dev\etecab\obj\Debug\net5.0\etecab.csprojAssemblyReference.cache
+C:\Users\joao_\documents\dev\etecab\obj\Debug\net5.0\etecab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\documents\dev\etecab\obj\Debug\net5.0\etecab.AssemblyInfoInputs.cache
+C:\Users\joao_\documents\dev\etecab\obj\Debug\net5.0\etecab.AssemblyInfo.cs
+C:\Users\joao_\documents\dev\etecab\obj\Debug\net5.0\etecab.csproj.CoreCompileInputs.cache
+C:\Users\joao_\documents\dev\etecab\obj\Debug\net5.0\etecab.dll
+C:\Users\joao_\documents\dev\etecab\obj\Debug\net5.0\ref\etecab.dll
+C:\Users\joao_\documents\dev\etecab\obj\Debug\net5.0\etecab.pdb
+C:\Users\joao_\documents\dev\etecab\obj\Debug\net5.0\etecab.genruntimeconfig.cache
